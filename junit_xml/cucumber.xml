@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="46.741914">
+<testcase classname="Login Feature" name="User Check Admin Functionality" time="46.741914">
+<system-out><![CDATA[When user opens the "Chrome" browser........................................passed
+And user enters the url "https://opensource-demo.orangehrmlive.com/"........passed
+When user enters "Admin" as username........................................passed
+And user enters "admin123" as password......................................passed
+And user clicks on login button.............................................passed
+Given user is on the application Dashboard page.............................passed
+Then user click on Admin tab................................................passed
+Then user moves a cursor on the User Management.............................passed
+Then user click on Users....................................................passed
+Then user is on application Users page......................................passed
+And user enter "Admin"......................................................passed
+And user select user Role...................................................passed
+And user enter "Hannah" Name................................................passed
+And user select Status......................................................passed
+Then user click on Search...................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

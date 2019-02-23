@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="1.472085">
+<testcase classname="Login Feature" name="Login Functionality for valid username and password" time="1.472085">
+<system-out><![CDATA[When user opens the "Chrome" browser........................................passed
+And user enters the url "https://opensource-demo.orangehrmlive.com/"........passed
+Given user is on the application login page.................................passed
+When user enters "Admin" as username........................................passed
+And user enters "admin123" as password......................................passed
+And user clicks on login button.............................................passed
+Then user is on the application Dashboard page..............................passed
+]]></system-out>
+</testcase>
+</testsuite>
